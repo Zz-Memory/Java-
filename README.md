@@ -16,4 +16,4 @@
 
 ​	运行不成功可能是缺少驱动，在 IntelliJ IDEA 中，可以在项目结构中添加依赖，选择 `File` -> `Project Structure`，在 `Libraries` 部分添加 JAR 文件。
 
-​	不想找的可以去我的博客中下载，博客地址：
+​	不想找的可以去我的博客中下载，博客地址：https://blog.csdn.net/ZzMemory/article/details/144847858?fromshare=blogdetail&sharetype=blogdetail&sharerId=144847858&sharerefer=PC&sharesource=ZzMemory&sharefrom=from_link
